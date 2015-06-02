@@ -5,7 +5,7 @@
 url: http://yoursite.com
 title: Lea(r)n Valorization
 email: your-email@domain.com
-baseurl: /leanvalorisation
+baseurl: /leanvalorization
 author: Your Name
 description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
