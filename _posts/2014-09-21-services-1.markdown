@@ -1,8 +1,64 @@
 ---
 layout: default
-img: ipad.png
+img: learnvalorization.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Lea(r)n <span class="red">Valorization</span>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+_What is your startup worth? What are your most valuable assets? How can you increase the attractiveness to investors? All this and more in the upcoming book by Peter Verhasselt._
+
+### This upcoming book will cover
+* topic 1
+* topic 2
+* topic 3
+
+### Contact the author
+Peter Verhasselt is .......
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://leanvaluation.co/?utm_source=Twitter&utm_medium=Twitter&utm_content=frontpage&utm_campaign=share_button
+   " data-text="Can't wait for the #lean #valuation book." data-via="leanvalue" data-lang="en">Tweet</a>
+<script>
+   ! function (d, s, id) {
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (!d.getElementById(id)) {
+           js = d.createElement(s);
+           js.id = id;
+           js.src = "https://platform.twitter.com/widgets.js";
+           fjs.parentNode.insertBefore(js, fjs);
+       }
+   }(document, "script", "twitter-wjs");
+</script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+   lang: en_US
+</script>
+<script type="IN/Share" data-url="http://www.leanvaluation.co/?utm_source=Linkedin&amp;utm_medium=Linkedin&amp;utm_content=frontpage&amp;utm_campaign=share_button" data-counter="right"></script>
+
+__Keep me updated about the progress of the book.__
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//sirris.us2.list-manage.com/subscribe/post?u=b8ac525f48e3c47dfefe339fb&amp;id=331b37ca8c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="form-group">
+  <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="First Name">
+    </div>
+<div class="form-group">
+<input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" placeholder="Last Name">
+    </div>
+<div class="form-group">
+  <input type="email" value="" name="EMAIL" class="required email form-control" placeholder="Email (required)" id="mce-EMAIL" aria-required="true" />
+
+</div>
+<div class="mc-field-group form-group">
+
+
+  <button type="submit" value="Keep me in the loop!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">Keep me in the loop!</button>
+
+</div>
+<div id="mce-responses" class="clear">
+ <div class="response alert alert-warning" id="mce-error-response" style="display:none"></div>
+ <div class="response alert alert-success" id="mce-success-response" style="display:none"></div>
+</div>  <div class="clear"></div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
