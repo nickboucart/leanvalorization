@@ -5,15 +5,21 @@ category: Services
 title: Lea(r)n <span class="red">Valorization</span>
 description: |
 ---
-_What is your startup worth? What are your most valuable assets? How can you increase the attractiveness to investors? All this and more in the upcoming book by Peter Verhasselt._
+_Digital ventures have different valorization patterns than traditional companies; their scaling mechanics are **digital**. To build a successful digital company, you need an operational model, plan and metrics that take allow you to answer questions like:._
+
+* _What kind of assits do I have to build within my digital company to positively impact my valuation, and how does that differ from the asset buildup of traditional, non-digital companies?_
+* _What are the key operations, roles and indicators in **scaling** my digital venture?_
+
 
 ### This upcoming book will cover
-* topic 1
-* topic 2
-* topic 3
+* Product & technology in a digital world: the valorization mechanisms for the digital Economy
+* Valorization model of a digital venture: the drivers for valuation, success and viability
+* Scaling phases and team evolution: organizing for growth
+* Operational and financial management parameters: the dashboard for valorization
+
 
 ### Contact the author
-Peter Verhasselt is .......
+Peter Verhasselt coaches technology driven companies in optimizing their Product Management, Business plan and Go-to-Market according to the company’s scaling phase.
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://leanvaluation.co/?utm_source=Twitter&utm_medium=Twitter&utm_content=frontpage&utm_campaign=share_button
    " data-text="Can't wait for the #lean #valuation book." data-via="leanvalue" data-lang="en">Tweet</a>
