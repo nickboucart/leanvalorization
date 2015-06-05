@@ -7,7 +7,7 @@ description: |
 ---
 _Ever wondered why small startups can raise millions of dollars? Digital ventures have different valorization patterns than traditional companies; their scaling mechanics are **digital**. To build a successful digital company, you need an operational model, plan and metrics that take allow you to answer questions like:._
 
-* _What kind of assits do I have to build within my digital company to positively impact my valuation, and how does that differ from the asset buildup of traditional, non-digital companies?_
+* _What kind of assets do I have to build within my digital company to positively impact my valuation, and how does that differ from the asset buildup of traditional, non-digital companies?_
 * _What are the key operations, roles and indicators in **scaling** my digital venture?_
 
 
@@ -18,7 +18,7 @@ _Ever wondered why small startups can raise millions of dollars? Digital venture
 * Operational and financial management parameters: the dashboard for valorization
 
 
-### Contact the author
+### About the author
 Peter Verhasselt coaches technology driven companies in optimizing their Product Management, Business plan and Go-to-Market according to the company’s scaling phase.
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://leanvaluation.co/?utm_source=Twitter&utm_medium=Twitter&utm_content=frontpage&utm_campaign=share_button
