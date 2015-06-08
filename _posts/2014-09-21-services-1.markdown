@@ -5,7 +5,7 @@ category: Services
 title: Lea(r)n <span class="red">Valorization</span>
 description: |
 ---
-_Ever wondered why small startups can raise millions of dollars? Digital ventures have different valorization patterns than traditional companies; their scaling mechanics are **digital**. To build a successful digital company, you need an operational model, plan and metrics that take allow you to answer questions like:._
+_Ever wondered why small startups can raise millions of dollars? Digital ventures have different valorization patterns than traditional companies; their scaling mechanics are **digital**. To build a successful digital company, you need an operational model, plan and metrics that allow you to answer questions like:._
 
 * _What kind of assets do I have to build within my digital company to positively impact my valuation, and how does that differ from the asset buildup of traditional, non-digital companies?_
 * _What are the key operations, roles and indicators in **scaling** my digital venture?_
