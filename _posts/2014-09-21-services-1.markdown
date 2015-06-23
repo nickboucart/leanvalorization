@@ -23,20 +23,9 @@ _Ever wondered why small startups can raise millions of dollars? Digital venture
 ### About the author
 Peter Verhasselt coaches technology companies in optimizing their Product Management, Business Plan and Go-to-Market strategy. He is the founder and coordinator of MISTRAL©, Strategy coaching for technology driven SMEs and STARTATHLON©, a Go-to-market Academy for SaaS and IoT companies. Verhasselt advised and scaled over 200 tech companies. He is a member of the advisory board of fast growing ventures Yools, Electronic Design Int. and FX-Motion (acquired by Ross Robotics). He’s an expert in the Technology Entrepreneurship Master Classes of VUB, ULB Solvay and Antwerp Management School. Before joining Sirris and Agoria, Peter worked for industrial companies in Sales and Product Management, Field Service Management, R&D and Intellectual Property. Peter has degrees in Engineering, Law, Economics and Management.
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://leanvaluation.co/?utm_source=Twitter&utm_medium=Twitter&utm_content=frontpage&utm_campaign=share_button
-   " data-text="Can't wait for the #lean #valuation book." data-via="leanvalue" data-lang="en">Tweet</a>
-<script>
-   ! function (d, s, id) {
-       var js, fjs = d.getElementsByTagName(s)[0];
-       if (!d.getElementById(id)) {
-           js = d.createElement(s);
-           js.id = id;
-           js.src = "https://platform.twitter.com/widgets.js";
-           fjs.parentNode.insertBefore(js, fjs);
-       }
-   }(document, "script", "twitter-wjs");
-</script>
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://leanvalorization.com" data-text="Check out upcoming book Lea(r)n Valorization" data-via="leanvalue" data-hashtags="valorization">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <script src="//platform.linkedin.com/in.js" type="text/javascript">
    lang: en_US
 </script>
-<script type="IN/Share" data-url="http://www.leanvaluation.co/?utm_source=Linkedin&amp;utm_medium=Linkedin&amp;utm_content=frontpage&amp;utm_campaign=share_button" data-counter="right"></script>
+<script type="IN/Share" data-url="http://leanvalorization.com/?utm_source=Linkedin&amp;utm_medium=Linkedin&amp;utm_content=frontpage&amp;utm_campaign=share_button" data-counter="right"></script>
